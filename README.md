@@ -1,16 +1,17 @@
 <<<<<<< HEAD
 # AI-Recipe-Generator
 =======
-# React + Vite
+A React.js web application that generates smart, well-structured receipts using AI APIs.
+This project demonstrates the power of AI integration into modern web apps, allowing users to input purchase details and automatically receive a neatly formatted, downloadable receipt.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##🚀 Features
+🔹 React.js Frontend – built with reusable components and modern hooks.
+🔹 AI-Powered Receipt Generation – integrates with an AI API for dynamic receipt creation.
+🔹 REST API Calls – securely fetch data from backend AI services.
+🔹 Downloadable Receipts – export receipts as PDF/printable format.
+🔹 Responsive Design – optimized for desktop and mobile.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> master
+##🛠️ Tech Stack
+Frontend: React.js, CSS
+API Calls: Fetch
+AI Integration: OpenAI /  Gemini
