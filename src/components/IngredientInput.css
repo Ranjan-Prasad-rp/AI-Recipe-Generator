@@ -1,0 +1,74 @@
+.IngredientInput {
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+    flex-grow: 1;
+    flex-direction: column;
+
+
+}
+
+.IngredientInput input {
+    min-width: 15%;
+    max-width: 50%;
+    height: 2em;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+button {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 0.9em;
+    padding: 0.5em;
+
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    border: 2px rgb(248, 246, 246) solid;
+}
+
+.list {
+    border: 2px black solid;
+    padding: 0.5em;
+    margin: 2em;
+    background-color: whitesmoke;
+    width: 50%;
+    border-radius: 1em;
+
+}
+
+.recipe-container {
+    border: 2px black solid;
+    border-radius: 5px;
+    padding: 1em;
+    display: flex;
+    position: relative;
+    background-color: #ede1e1;
+
+
+}
+
+.recipe-button {
+    background-color: orangered;
+    color: whitesmoke;
+    position: absolute;
+    right: 2em;
+    top: 2.6em;
+    padding: 1em;
+    font-weight: 800;
+
+}
+
+.recipe-button:hover {
+    background-color: rgb(250, 71, 6);
+    color: black;
+    border: 2px rgb(11, 0, 0) solid;
+}
