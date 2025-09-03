@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI-Recipe-Generator
 =======
 A React.js web application that generates smart, well-structured receipts using AI APIs.
