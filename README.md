@@ -22,3 +22,5 @@ AI Integration: OpenAI /  Gemini
 🔹 Email receipts directly to customers  
 🔹 Support for QR codes / barcodes  
 🔹 Cloud storage for receipts  
+## Live  
+https://ranjan-prasad-rp.github.io/AI-Recipe-Generator/
