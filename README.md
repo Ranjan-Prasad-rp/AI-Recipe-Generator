@@ -22,4 +22,4 @@ AI Integration: OpenAI /  Gemini
 🔹 Support for QR codes / barcodes  
 🔹 Cloud storage for receipts  
 ## Live  
-https://ranjan-prasad-rp.github.io/AI-Recipe-Generator/
+[https://ranjan-prasad-rp.github.io/AI-Recipe-Generator/](https://ai-recipe-generator-alpha-pied.vercel.app/)
